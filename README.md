@@ -409,3 +409,8 @@ These values are from the recorded no-wind and wind-enabled runs in the technica
 - Fuse additional sensors to improve robustness during visual loss.
 - Use a more representative rover-motion model for prediction.
 - Run larger multi-trial evaluations across different trajectories, initial conditions, and disturbance levels.
+
+## Authors
+
+- **Lakshay Dhyani - EE24B062**
+- **Prithvi Gupta - EE24B040**
